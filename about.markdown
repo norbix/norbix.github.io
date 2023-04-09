@@ -31,4 +31,4 @@ Arbitrary code snippets can be found at my [GitHub profile](https://github.com/n
 
 # E-mail
 
-sdsds
+Wanna talk offline, drop me an [email](mailto:norbert.jakubczak@gmail.com) 
