@@ -27,7 +27,7 @@ sdsdsd
 
 # GitHub
 
-wqwqw
+Arbitrary code snippets can be found at my [GitHub profile](https://github.com/norbix)
 
 # E-mail
 
