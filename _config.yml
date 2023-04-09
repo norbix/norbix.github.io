@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Norbix software solutions
+title: Norbix - The log of my journey through code & software systems architecture
 #email: norbert.jakubczak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Pragmatic software-oriented tech blog of Norbix Jakubczak - back-end software
