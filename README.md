@@ -1,1 +1,1 @@
-# norbix.github.io
+# norbix.io
