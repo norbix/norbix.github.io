@@ -29,9 +29,11 @@ twitter_username: norbixio
 github_username:  norbix
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+remote_theme: pages-themes/hacker@v0.2.0
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,3 +54,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
