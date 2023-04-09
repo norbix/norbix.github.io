@@ -6,11 +6,11 @@ permalink: /about/
 
 # LinkedIn
 
-If ur keen about my professional exp, my [LinkedIn profile](https://linkedin.com/in/norbix) be the best place to choose. 
+If ur keen about my professional exp, my [LinkedIn profile](https://linkedin.com/in/norbix) be the best place to look up. 
 
 # Twitter
 
-Wanna get the stream of my activity or hints (but not necessarily talk about at my blog), follow [@norbixio](https://twitter.com/norbixio)
+Wanna get the stream of my activity or hints (which I don't necessarily talk about at my blog), follow [@norbixio](https://twitter.com/norbixio)
 
 # GitHub
 
